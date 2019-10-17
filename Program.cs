@@ -1,4 +1,5 @@
 ﻿using System;
+using AppMetrics = App.Metrics;
 
 namespace test
 {

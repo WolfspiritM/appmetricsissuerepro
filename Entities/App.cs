@@ -1,6 +1,6 @@
 using System;
 
-namespace test
+namespace test.Entities
 {
     public class App
     {
